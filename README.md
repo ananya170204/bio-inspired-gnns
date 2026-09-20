@@ -1,7 +1,6 @@
 # Biologically Inspired Graph Neural Networks
 
-This repository provides code and data for the paper **"Learning from Biological Networks: Which Organisational Principles Improve Graph Neural Networks?"** (submitted to Expert Systems with Applications) and the accompanying Honours thesis at the University of Sydney.
-
+This repository provides code and data for the paper **"Learning from Biological Networks: Which Organisational Principles Improve Graph Neural Networks?"** 
 It implements a controlled framework for evaluating six biological and network-organisational principles as architectural inductive biases within Message Passing Neural Networks (MPNNs). Eight baseline configurations (C1–C8) and seven principle-specific variants (V1–V7) are evaluated across seven datasets spanning citation, molecular, biological, and social-network domains.
 
 ## Architectures
